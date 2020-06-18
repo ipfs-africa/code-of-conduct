@@ -1,4 +1,4 @@
-# Nairobi IPFS Code of Conduct
+# IPFS Africa Code of Conduct
 
 ## Our Pledge
 
